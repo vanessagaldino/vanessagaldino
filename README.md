@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @vanessalopesgaldino
 - 👀 I’m interested in  construir conhecimento
 - 🌱 I’m currently learning  html e css
-- 📫 How to reach me  45 99951-9862 , vanessalopesgaldino@gmail.com
+- 📫 Curitiba, PR
+- Sou estudante de Tecnologia de Informação
+- Estagiária no EBANX
+- Curiosidade: Formada e pós graduada em Engenharia Ambiental com ênfase em Tecnologias Ambientais
+
+.
 
 <!---
 vanessalopesgaldino/vanessalopesgaldino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
