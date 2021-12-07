@@ -4,7 +4,7 @@
 - 📫 Curitiba, PR
 - Sou estudante de Tecnologia de Informação
 - Estagiária no EBANX
-- Curiosidade: Formada e pós graduada em Engenharia Ambiental com ênfase em Tecnologias Ambientais
+- Curiosidade: Formada em Gestão Ambiental e pós graduada em Engenharia Ambiental com ênfase em Tecnologias Ambientais
 
 .
 
