@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vanessalopesgaldino
 - 👀 I’m interested in  construir conhecimento
-- 🌱 I’m currently learning  html e css
+- 🌱 I’m currently learning
 - 📫 Curitiba, PR
-- Sou estudante de Tecnologia de Informação
-- Estagiária no EBANX
-- Curiosidade: Formada em Gestão Ambiental e pós graduada em Engenharia Ambiental com ênfase em Tecnologias Ambientais
+- Estudante de Tecnologia de Informação
+- Intern at EBANX
+
 
 .
 
