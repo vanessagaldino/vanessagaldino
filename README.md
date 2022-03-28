@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanessalopesgaldino
+- 👋 Hi, I’m @vanessagaldino
 - 👀 I’m interested in  construir conhecimento
 - 🌱 I’m currently learning
 - 📫 Curitiba, PR
